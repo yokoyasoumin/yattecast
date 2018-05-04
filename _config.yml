@@ -8,8 +8,8 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: alice
-description: Example description
-description_long: Example long description
+description: YOKOYA Soumin
+description_long: Edo de nadai no ano YOKOYA Soumin
 email: info@example.com
 exclude:
   - docker
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: yokoyasoumin
 url: http://example.com
